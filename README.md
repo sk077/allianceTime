@@ -3,19 +3,18 @@ Most volunteer projects last anywhere from 4 - 8 weeks. If you have about 5 hour
 
 Quarter 1
 January - March
-## Availability: Yes
+Availability: Yes
 
 Quarter 2 
 April - June
-## Availability: Yes
+Availability: Yes
 
 Quarter 3 
 July - September
-## Availability: Yes
+Availability: Yes
 
 Quarter 4
 October - December
-## Availability: Yes
+Availability: Yes
 
-Also, please provide a link to your LinkedIn or other online resume. Thanks!
-### Link to LinkedIn: http://www.linkedin.com/in/shantanudeepdatta
+Link to LinkedIn: https://www.linkedin.com/in/snehakavathekar
